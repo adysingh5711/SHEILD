@@ -385,8 +385,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for community safety**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/SHEILD?style=social)](https://github.com/DevanshVarshney/SHEILD/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/SHEILD?style=social)](https://github.com/DevanshVarshney/SHEILD/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/SHEILD)](https://github.com/DevanshVarshney/SHEILD/issues)
+[![GitHub stars](https://img.shields.io/github/stars/DevanshVarshney/SHEILD?style=social)](https://github.com/DevanshVarshney/SHEILD/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DevanshVarshney/SHEILD?style=social)](https://github.com/DevanshVarshney/SHEILD/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/DevanshVarshney/SHEILD)](https://github.com/DevanshVarshney/SHEILD/issues)
 
 </div>
